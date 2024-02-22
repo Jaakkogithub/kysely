@@ -1,0 +1,35 @@
+{
+    "kysymykset": [{
+            "teksti": "Mikä on maailman suurin valtameri?",
+            "vaihtoehdot": [{
+                "teksti": "Tyynimeri",
+                "oikein": true
+            }, {
+                "teksti": "Atlantin valtameri",
+                "oikein": false
+            }, {
+                "teksti": "Intian valtameri",
+                "oikein": false
+            }, {
+                "teksti": "Pohjoinen jäämeri",
+                "oikein": false
+            }]
+        },
+        {
+            "teksti": "Minkä maan pääkaupunki on San José",
+            "vaihtoehdot": [{
+                "teksti": "Panama",
+                "oikein": false
+            }, {
+                "teksti": "Honduras",
+                "oikein": false
+            }, {
+                "teksti": "Sri Lanka",
+                "oikein": false
+            }, {
+                "teksti": "Costa Rica",
+                "oikein": true
+            }]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "sovellus_verkkoon",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2024-02-22T13:11:38.203733Z",
+  "generator": "pub",
+  "generatorVersion": "3.3.0"
+}
